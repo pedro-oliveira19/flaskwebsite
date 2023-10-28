@@ -19,5 +19,5 @@ packaging==23.2
 Pillow
 SQLAlchemy==2.0.21
 typing_extensions
-Werkzeug==2.3.0
+Werkzeug
 WTForms==3.0.1
